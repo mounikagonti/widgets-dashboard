@@ -20,7 +20,7 @@
 ## Quick Start
 
     # Clone the application
-    $ git clone https://github.com/mounikagonti/dashboard-widgets.git
+    $ git clone https://github.com/mounikagonti/widgets-dashboard
 
     # Install dependencies
     $ yarn install (or) npm install
